@@ -1,0 +1,3 @@
+#N canvas 203 63 450 300 12;
+#X obj 163 54 phasor~;
+#X obj 20 -3;

@@ -1,0 +1,5 @@
+#N canvas 564 130 450 300 12;
+#X obj 72 60 r _bang;
+#X obj 64 121 notein 1;
+#X obj 147 123 notein 2;
+#X obj 231 123 notein 3;
